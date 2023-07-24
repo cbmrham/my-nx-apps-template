@@ -2,20 +2,11 @@
 
 ## where to update
 
-- package.json
 - README.md
+- package.json
 - nx.json
 - workspace.json
 - tsconfig.base.json
-- tsconfig.json
-- .eslintrc.json
-- .prettierrc
-- .vscode/settings.json
-- .vscode/launch.json
-- .vscode/tasks.json
-- .huskyrc.json
-
-
 
 ## start all services
 
@@ -23,9 +14,9 @@
 yarn run dev:all
 ```
 
-
 ---
-以下、Nxによって生成されたREADME.md
+
+以下、Nx によって生成された README.md
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
